@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.idea
+net/FunkoWallet.API/appsettings.json
+net/FunkoWallet.sln
